@@ -1,5 +1,6 @@
 ### Hi there 👋
--  I’m an Electronics and Communication Engineering graduate and currently learning data analytics.
+-  I’m an Electronics and Communication Engineering graduate. 
+- 🌱 I’m currently learning Data Analytics.
 <!--
 **Anjumv03/Anjumv03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
